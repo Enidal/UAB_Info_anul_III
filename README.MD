@@ -20,4 +20,9 @@ Express.js Framework
 webcam Framework 
 MySQL - baza de date
 Ejs - Template Engine 
+
+
+
+
+
 ![Rulare Program](/Captură.PNG)
